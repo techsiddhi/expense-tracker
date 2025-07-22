@@ -4,7 +4,7 @@
 Hey! So this is a super simple expense tracker I made using **Flask** and **SQLite**.  
 You can add your daily expenses, view them in a table, delete them if needed, and see how much you’ve spent in total. That’s pretty much it.
 
-The design is plain and minimal — nothing too fancy.
+
 
 ---
 
